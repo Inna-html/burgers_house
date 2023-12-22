@@ -5,12 +5,14 @@
 the Angular project, created at the ItLogia intensive. 
 
 in the project:
+- added animation;
 - changing currency icons;
 - redirection anchors from the header to the request section;
 - the opportunity to order few burgers;
 - validation the form to be filled out before sending;
 - the button is disabled until the data is filled in;
-- the data comes from the database and is sent to the database.
+- the data comes from the database and is sent to the database;
+- added adaptability
 
 ## *View the website*
 
